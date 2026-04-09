@@ -1,0 +1,15 @@
+{
+  "id": "epicmail",
+  "name": "EpicMail",
+  "version": "1.0.1",
+  "description": "Unified inbox software for serious multi-account email.",
+  "main": "index.js",
+  "author": "PrudentDev, LLC",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.epicmail.org/",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false
+  },
+  "defaultIcon": "https://app.epicmail.org/favicon.png"
+}
